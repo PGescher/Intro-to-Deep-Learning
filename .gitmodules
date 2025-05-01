@@ -1,3 +1,6 @@
 [submodule "TestRepo"]
 	path = TestRepo
 	url = https://github.com/PGescher/TestRepo
+[submodule "GroupRepo"]
+	path = GroupRepo
+	url = git@github.com:luktob/IDL.git
